@@ -7,3 +7,4 @@ notebook
 tqdm
 opencv-contrib-python
 scikit-learn
+take the images to train the modle from kaggle click on the following link "https://www.kaggle.com/datasets/pragya002/facial-emotion-recognition"
