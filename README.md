@@ -57,3 +57,6 @@ The program will display a video feed with detected faces and predicted emotions
 ## 📜 License
 This project is for educational purposes. Feel free to modify and use it as needed.
 
+## Note
+If you do not want to extract the rar files you can take the images from kaggle the link is provided below
+"https://www.kaggle.com/datasets/pragya002/facial-emotion-recognition"
